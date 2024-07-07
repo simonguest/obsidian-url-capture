@@ -4,7 +4,7 @@ When doing research, I wanted an easy way to capture the current URL for further
 
 ## Prerequisites
 
-- This Chrome extension requires the [**Advanced URI**](https://github.com/Vinzent03/obsidian-advanced-uri) Community Plug-in to be installed and active in Obsidian.
+- This Chrome extension requires the [**Advanced Obsidian URI**](https://vinzent03.github.io/obsidian-advanced-uri/installing) Community Plug-in to be installed and active in Obsidian.
 
 
 ## Installing the extension
